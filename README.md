@@ -1,5 +1,7 @@
 # Aplikacje-mikrokontrolerow
 
+Zadania na przedmiot Aplikacje mikrokontrolerów.
+
 # mniAM
 mniAM to gra, gdzie gracze to mikrokontrolery, które rywalizują pomiędzy sobą o tranzystory obecne na planszy. Mogą zjadać również siebie wzajemnie.
 Klient łączy się z serwerami i podejmuję próbę nawiązania połączenia z programami graczy. Między klientem a serwerem otwierane jest połączenie TCP. Ruch danych klient->serwer jest przekazywany na port szeregowy, na którym podłączona jest płytka.
